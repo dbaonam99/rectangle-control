@@ -1,0 +1,16 @@
+.button {
+  font-size: 12px;
+  padding: 10px 70px;
+  border: 0;
+  outline: 0;
+  border-radius: 10px;
+  transition: all 0.3s;
+  color: #FFF;
+  margin: 0 10px;
+  text-transform:  uppercase;
+  font-weight: bold;
+}
+
+.button:active {
+  transform: scale(0.9)
+}

@@ -1,0 +1,41 @@
+
+.topLeftBox {
+  position: absolute;
+  top: -10px;
+  left: -10px;
+  width: 15px;
+  height: 15px;
+  background: #FFF;
+  border: 1px #000 solid;
+  z-index: 999999;
+}
+
+.topRightBox {
+  position: absolute;
+  top: -10px;
+  right: -10px;
+  width: 15px;
+  height: 15px;
+  background: #FFF;
+  border: 1px #000 solid;
+}
+
+.bottomLeftBox {
+  position: absolute;
+  bottom: -10px;
+  left: -10px;
+  width: 15px;
+  height: 15px;
+  background: #FFF;
+  border: 1px #000 solid;
+}
+
+.bottomRightBox {
+  position: absolute;
+  bottom: -10px;
+  right: -10px;
+  width: 15px;
+  height: 15px;
+  background: #FFF;
+  border: 1px #000 solid;
+}
